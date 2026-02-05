@@ -3,11 +3,11 @@ description: PhD Student in Mathematics
 theme: minimal-mistakes-jekyll
 
 header_pages:
-  - _pages/home.md
-  - _pages/about.md
-  - _pages/research.md
-  - _pages/publications.md
-  - _pages/teaching.md
-  - _pages/cv.md
-  - _pages/contact.md
+  - _pages/Home.md
+  - _pages/About.md
+  - _pages/Research.md
+  - _pages/Publications.md
+  - _pages/Teaching.md
+  - _pages/My CV.md
+  - _pages/Contact.md
 

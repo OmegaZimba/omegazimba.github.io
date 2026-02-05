@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="[images/f9aea675-16b6-4d18-bdd2-1a068a9a757e.JPG" width="180" style="border-radius: 50%; margin-bottom: 20px;">
+</p>
+
+
+
+
 #Personal Academic Site
 This repository hosts 
 
@@ -44,7 +51,6 @@ My current work studies **biquadratic descent for quartic field extensions**.
 ---
 
 ## 📚 Research Profiles
-*(Replace with your real links)*
 
 - ORCID: https://orcid.org/XXXX-XXXX-XXXX-XXXX
 - Google Scholar: https://scholar.google.com/
@@ -87,12 +93,7 @@ Please visit the contact section of the academic website for correspondence.
 
 
 
-<p align="center">
-  <img src="[images/f9aea675-16b6-4d18-bdd2-1a068a9a757e.JPG" width="180" style="border-radius: 50%; margin-bottom: 20px;">
-</p>
 
-My research interests are **algebraic/birational geometry** and **field extensions**.
-Currently, I am working on the theory of Galois descent as it relates to biquadratic field extensions.
 
 You can view my full CV [here](files/cv.pdf) or contact me at [ozimba@unima.ac.mw].
 

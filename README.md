@@ -1,3 +1,7 @@
+
+<p align="center">
+  <img src="images/profile.jpg" width="180" style="border-radius: 50%; margin-bottom: 20px;">
+</p>
 PhD Student in Mathematics at Stellenbosch University
 # About Me
 

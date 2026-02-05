@@ -1,20 +1,17 @@
 <p align="center">
   <img src="[images/f9aea675-16b6-4d18-bdd2-1a068a9a757e.JPG" width="180" style="border-radius: 50%; margin-bottom: 20px;">
 </p>
-
+Omega Zimba
 
 
 
 #Personal Academic Site
 This repository hosts 
 
-##Author
-Omega Zimba
 
 ##Research Interests
 Galois theory, commutative algebra, algebraic/birational geometry and Galois descent theory.
 
-# Omega Zimba
 
 [![GitHub Pages](https://img.shields.io/badge/Website-GitHub%20Pages-blue)](https://username.github.io)
 [![Research Area](https://img.shields.io/badge/Field-Pure%20Mathematics-green)]()

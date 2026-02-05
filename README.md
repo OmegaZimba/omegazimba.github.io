@@ -16,7 +16,7 @@ Galois theory, commutative algebra, algebraic/birational geometry and Galois des
 ---
 
 ## 👤 About Me
-I am a PhD student in Pure Mathematics at **Stellenbosch University, South Africa**. My research focuses on algebraic structures in field theory and their interactions with algebraic geometry and commutative algebra.
+I am a PhD student in Pure Mathematics at **Stellenbosch University, South Africa**, working under the supervision of Prof. Sophie Marques and Prof. Florian Luca. 
 
 ---
 
@@ -28,18 +28,18 @@ I am a PhD student in Pure Mathematics at **Stellenbosch University, South Afric
 - Algebraic Geometry
 - Commutative Algebra
 
-My current work studies **Galois descent for quartic field extensions that become biquadratic under suitable conditions**.
+My current work studies **biquadratic descent for quartic field extensions**.
 
 ---
 
-## 👨‍🏫 Supervision
+## 👨‍🏫 Academic Advisors/Supervisors
 - Prof. Sophie Marques
 - Prof. Florian Luca (Co-supervisor)
 
 ---
 
 ## 🌐 Academic Website
-👉 **[Visit My Website](https://username.github.io)**
+👉 **[Visit My Website](https://omegazimba.github.io)**
 
 ---
 
@@ -90,11 +90,6 @@ Please visit the contact section of the academic website for correspondence.
 <p align="center">
   <img src="[images/f9aea675-16b6-4d18-bdd2-1a068a9a757e.JPG" width="180" style="border-radius: 50%; margin-bottom: 20px;">
 </p>
-PhD Student in Mathematics at Stellenbosch University
-# About Me
-
-I am a first-year PhD student in Mathematics at Stellenbosch University, 
-working under the supervision of Prof. Sophie Marques and Prof. Florian Luca. 
 
 My research interests are **algebraic/birational geometry** and **field extensions**.
 Currently, I am working on the theory of Galois descent as it relates to biquadratic field extensions.

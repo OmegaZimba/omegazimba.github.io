@@ -1,3 +1,40 @@
+# Top navigation menu for AcademicPages
+
+- title: Home
+  url: /
+
+- title: About
+  url: /about/
+
+- title: Research
+  url: /research/
+  submenu:
+    - title: Projects
+      url: /research/projects/
+    - title: Interests
+      url: /research/interests/
+
+- title: Publications
+  url: /publications/
+  submenu:
+    - title: Journal Articles
+      url: /publications/journal/
+    - title: Preprints
+      url: /publications/preprints/
+    - title: Conference Papers
+      url: /publications/conference/
+
+- title: Teaching
+  url: /teaching/
+
+- title: CV
+  url: /cv/
+
+- title: Awards
+  url: /awards/
+
+- title: Contact
+  url: /contact/
 
 <p align="center">
   <img src="[images/f9aea675-16b6-4d18-bdd2-1a068a9a757e.JPG" width="180" style="border-radius: 50%; margin-bottom: 20px;">

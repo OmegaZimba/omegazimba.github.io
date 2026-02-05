@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="images/profile.jpg" width="180" style="border-radius: 50%; margin-bottom: 20px;">
+  <img src="[images/profile.jpg](https://github.com/OmegaZimba/omegazimba.github.io/blob/main/f9aea675-16b6-4d18-bdd2-1a068a9a757e.JPG)" width="180" style="border-radius: 50%; margin-bottom: 20px;">
 </p>
 PhD Student in Mathematics at Stellenbosch University
 # About Me

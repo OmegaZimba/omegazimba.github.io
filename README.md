@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[images/f9aea675-16b6-4d18-bdd2-1a068a9a757e.JPG" width="180" style="border-radius: 50%; margin-bottom: 20px;">
+  <img src="[images/profile.JPG" width="180" style="border-radius: 50%; margin-bottom: 20px;">
 </p>
 Omega Zimba
 

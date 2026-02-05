@@ -1,4 +1,4 @@
-# Top navigation menu for AcademicPages
+# Navigation menu
 
 - title: Home
   url: /

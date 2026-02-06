@@ -1,0 +1,13 @@
+title: Omega Zimba
+description: PhD Student in Mathematics
+theme: minimal-mistakes-jekyll
+
+header_pages:
+  - _pages/Home.md
+  - _pages/About.md
+  - _pages/Research.md
+  - _pages/Publications.md
+  - _pages/Teaching.md
+  - _pages/My CV.md
+  - _pages/Contact.md
+
